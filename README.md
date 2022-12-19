@@ -1,0 +1,9 @@
+- 👋 Hi, I’m Pauline
+- My tech HTML / CSS / JavaSCript 
+- 🌱 I’m currently learning at Simplon
+- 📫 My LinkedIn https://www.linkedin.com/in/pauline-curt-488a52254/
+
+<!---
+PaulineCurt/PaulineCurt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
