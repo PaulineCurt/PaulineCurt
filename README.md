@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pauline
-- My tech HTML / CSS / JavaSCript 
-- 🌱 I’m currently learning at Simplon
+- ⚙️ My tech HTML / CSS / JavaSCript 
+- 🌱 I’m currently in training at Simplon
 - 📫 My LinkedIn https://www.linkedin.com/in/pauline-curt-488a52254/
 
 <!---
