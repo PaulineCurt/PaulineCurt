@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Pauline
+- <H1>👋 Hi, I’m Pauline<H1>
+  
 - ⚙️ My tech HTML / CSS / JavaSCript 
 - 🌱 I’m currently in training at Simplon
 - 📫 My LinkedIn https://www.linkedin.com/in/pauline-curt-488a52254/
