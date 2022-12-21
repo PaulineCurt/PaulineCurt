@@ -3,7 +3,6 @@
 - 💕 I'm looking to collaborate on web developpement  
 - 🌱 I’m currently in training at <a href="https://simplon.co/">Simplon.co</a>
 - 📫 <a href="https://www.linkedin.com/in/pauline-curt-488a52254/" target="_blank">My LinkedIn </a>
--  <a href="https://www.linkedin.com/in/pauline-curt-488a52254/" target="_blank"><i class="devicon-linkedin-plain-wordmark colored"></i></a>
 
 
 <!---
