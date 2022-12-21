@@ -6,7 +6,8 @@
 
 
 <h1>Github stats</h1>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PaulineCurt&show_icons=true&theme=rose_pine)]
+[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PaulineCurt&show_icons=true&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!---
 PaulineCurt/PaulineCurt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
