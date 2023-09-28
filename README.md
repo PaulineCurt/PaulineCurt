@@ -21,6 +21,8 @@
 
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PaulineCurt&show_icons=true&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
+
 
 <!---
 PaulineCurt/PaulineCurt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
