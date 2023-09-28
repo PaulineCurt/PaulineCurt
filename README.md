@@ -1,4 +1,4 @@
-- <h1>👋 Hi, I’m Pauline</h1>
+<h1>👋 Hi, I’m Pauline</h1>
 - 💕 I'm looking to collaborate on web developpement  
 - 🌱 I’m currently in training at <a href="https://simplon.co/">Simplon.co</a>
 - 📫 <a href="https://www.linkedin.com/in/pauline-curt-488a52254/" target="_blank">My LinkedIn </a>
@@ -18,7 +18,7 @@
 </p>
  
 ## <h1>Github stats</h1> 
-<p display="flex" aligne-items="center">
+<p display="flex" align-items="center">
 
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PaulineCurt&show_icons=true&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
