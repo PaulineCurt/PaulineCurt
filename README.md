@@ -1,7 +1,7 @@
 <div display="flex" flex-direction="column">
 - <h1>👋 Hi, I’m Pauline</h1>
-- 💕 I'm looking to collaborate on web developpement  
-- 🌱 I’m currently in training at <a href="https://simplon.co/">Simplon.co</a>
+- 💕 I'm looking to collaborate on web developpement  <br>
+- 🌱 I’m currently in training at <a href="https://simplon.co/">Simplon.co</a> <br>
 - 📫 <a href="https://www.linkedin.com/in/pauline-curt-488a52254/" target="_blank">My LinkedIn </a>
 </div>
 
