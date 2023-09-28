@@ -5,7 +5,7 @@
 
 
 ## 🧰 Languages and Tools:
-<p>
+<p text-align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="Html" height="40">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="Css" height="40">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" height="40">
@@ -18,10 +18,12 @@
 </p>
  
 ## <h1>Github stats</h1> 
+<p display="flex" gap="4vw">
 
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PaulineCurt&show_icons=true&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
+ 
+</p>
 
 
 <!---
