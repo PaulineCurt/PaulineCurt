@@ -2,11 +2,21 @@
 - <h1>👋 Hi, I’m Pauline</h1>
 - 💕 I'm looking to collaborate on web developpement  <br>
 - 🌱 I’m currently in training at <a href="https://simplon.co/">Simplon.co</a> <br>
-- 📫 <a href="https://www.linkedin.com/in/pauline-curt-488a52254/" target="_blank">My LinkedIn </a>
 </div>
 
+## Find me on:
+<p text-align="center">
+ <a href="https://curtpauline.000webhostapp.com/" target="_blank" rel="noopener noreferrer"> 
+  <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="website" height="40" style="vertical-align:top; margin:4px"> </a>
+ <a href="https://www.linkedin.com/in/pauline-curt-488a52254/" target="_blank" rel="noopener noreferrer"> 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="mailto:curtpauline@gmail.com"> 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Email" height="40" style="vertical-align:top; margin:4px">
+ </a>
+ 
+</p>
 
-## 🧰 Languages and Tools:
+## Languages and Tools:
 <p text-align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="Html" height="40">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="Css" height="40">
@@ -19,7 +29,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" height="40">
 </p>
  
-## <h1>Github stats</h1> 
+## Github stats
 <p display="flex" align-items="center">
 
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PaulineCurt&show_icons=true&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)
