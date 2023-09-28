@@ -5,7 +5,7 @@
 </div>
 
 ## Find me on:
-<p text-align="center">
+<p align="center">
  <a href="https://curtpauline.000webhostapp.com/" target="_blank" rel="noopener noreferrer"> 
 <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Website" height="40" style="vertical-align:top; margin:4px"> 
  </a>
@@ -18,7 +18,7 @@
 </p>
 
 ## Languages and Tools:
-<p text-align="center">
+<p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="Html" height="40">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="Css" height="40">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" height="40">
