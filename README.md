@@ -18,7 +18,7 @@
 </p>
  
 ## <h1>Github stats</h1> 
-<p display="flex" gap="4vw">
+<p display="flex" aligne-items="center">
 
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PaulineCurt&show_icons=true&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
