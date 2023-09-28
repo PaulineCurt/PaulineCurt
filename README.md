@@ -7,7 +7,8 @@
 ## Find me on:
 <p text-align="center">
  <a href="https://curtpauline.000webhostapp.com/" target="_blank" rel="noopener noreferrer"> 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
+<img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Website" height="40" style="vertical-align:top; margin:4px"> 
+ </a>
  <a href="https://www.linkedin.com/in/pauline-curt-488a52254/" target="_blank" rel="noopener noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  alt="linkedin" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:curtpauline@gmail.com"> 
