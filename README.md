@@ -8,7 +8,7 @@
 ## Languages and Tools:
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vue,nuxt,ts,symfony,docker,figma" />
+    <img src="https://skillicons.dev/icons?i=vue,nuxt,supabase,ts,symfony,docker,figma" />
   </a>
 </p>
  
