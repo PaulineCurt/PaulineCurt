@@ -1,14 +1,12 @@
 <div display="flex" flex-direction="column">
-- <h1>👋 Hi, I’m Pauline</h1>
-- 💕 I'm looking to collaborate on web developpement  <br>
-- 🌱 I’m currently in training at <a href="https://simplon.co/">Simplon.co</a> <br>
+ <h1>👋 Hi, I’m Pauline</h1>
 </div>
 
 
 ## Languages and Tools:
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vue,nuxt,supabase,ts,symfony,docker,figma" />
+    <img src="https://skillicons.dev/icons?i=vue,nuxt,supabase,vitest,ts,docker,figma,symfony,mysql" />
   </a>
 </p>
  
