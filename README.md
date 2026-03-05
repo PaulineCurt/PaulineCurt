@@ -6,7 +6,7 @@
 ## Languages and Tools:
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vue,nuxt,supabase,vitest,ts,docker,figma,symfony,mysql" />
+    <img src="https://skillicons.dev/icons?i=vue,nuxt,supabase,vite,vitest,ts,docker,figma,symfony,laravel,mysql,linux" />
   </a>
 </p>
  
